@@ -1,5 +1,7 @@
 # @graphql-yoga/urql-exchange
 
+## 5.7.1
+
 ## 5.7.0
 
 ### Minor Changes

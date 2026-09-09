@@ -1,5 +1,15 @@
 # graphql-yoga
 
+## 5.22.1
+
+### Patch Changes
+
+- [#4569](https://github.com/graphql-hive/graphql-yoga/pull/4569)
+  [`c80f43c`](https://github.com/graphql-hive/graphql-yoga/commit/c80f43cd6d9924f32ca4256861578c830564dd3d)
+  Thanks [@Urigo](https://github.com/Urigo)! - Serve the favicon of the built-in GraphiQL and
+  landing pages from a file that stays in the repository (`packages/render-graphiql/favicon.ico`)
+  now that the website sources moved.
+
 ## 5.22.0
 
 ### Minor Changes
